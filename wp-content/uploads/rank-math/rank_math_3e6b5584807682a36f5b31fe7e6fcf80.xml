@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//commonnews.in/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://commonnews.in/post-sitemap.xml</loc>
+		<lastmod>2023-01-03T16:05:59+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://commonnews.in/page-sitemap.xml</loc>
+		<lastmod>2022-08-29T10:10:48+00:00</lastmod>
+	</sitemap>
+</sitemapindex>
